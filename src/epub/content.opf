@@ -44,6 +44,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85075926</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;1899 was the tail end of the Gilded Age, a time in America of rapid economic expansion that caused a select few to become ultra-wealthy, while millions of commoners struggled in abject poverty. It was against this backdrop that &lt;a href="https://standardebooks.org/ebooks/thorstein-veblen"&gt;Veblen&lt;/a&gt;, an economist and sociologist at the University of Chicago, wrote &lt;i&gt;The Theory of the Leisure Class&lt;/i&gt;, a book that brought the phrase “conspicuous consumption” into the modern vocabulary.&lt;/p&gt;
