@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/thorstein-veblen/the-theory-of-the-leisure-class</dc:identifier>
 		<dc:date>2021-06-09T21:56:07Z</dc:date>
@@ -46,13 +46,13 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Veblen outlines his theory of social stratification in an industrialized society, the paradoxical elevation of the leisure class, and conspicuous consumption.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;1899 was the tail end of the Gilded Age, a time in America of rapid economic expansion that caused a select few to become ultra-wealthy, while millions of commoners struggled in abject poverty. It was against this backdrop that &lt;a href="https://standardebooks.org/ebooks/thorstein-veblen"&gt;Veblen&lt;/a&gt;, an economist and sociologist at the University of Chicago, wrote &lt;i&gt;The Theory of the Leisure Class&lt;/i&gt;, a book that brought the phrase “conspicuous consumption” into the modern vocabulary.&lt;/p&gt;
 			&lt;p&gt;Veblen’s thesis centers on the definition of what he calls the “leisure class,” the upper social class consisting of wealthy individuals who are socially exempt from productive work. Their work instead becomes what he calls “conspicuous consumption”: spending their wealth in increasingly ostentatious ways in order to preserve their class status. Meanwhile, the lower and middle classes are the ones actually engaged in work that is productive to society—manufacturing and industry—with the goal of eventually being able to emulate the social status afforded by the conspicuous consumption of their leisure class masters.&lt;/p&gt;
 			&lt;p&gt;Along the way, Veblen links these behaviors with social strictures left over from feudal society, arguing that contemporary human society has not evolved far beyond our medieval peasant-and-lord forefathers. In those ancient societies, productive labor came to be viewed as disreputable and dirty; thus, status is won not by accumulating wealth, but by displaying the evidence of wealth. He argues that many of what some would consider society’s ills are linked to this fundamental concept: for example, the mistreatment of women—forcing them into constricting clothing, preventing them from participating in independent economic life—is a way for their husbands to show off their unemployed status as a kind of conspicuous leisure; or society’s obsession with sports, celebrity, and organized religion, all forms of conspicuous leisure that bring no productive benefit to society, and on the contrary waste time and resources, but whose practitioners—superstars and clergy—maintain a high social status.&lt;/p&gt;
 			&lt;p&gt;Though it was written over a hundred years ago when industrial society was just getting its footing, Veblen’s thesis predicts much of the social stratification we recognize today. Practical labor continues to be viewed as basically demeaning, while people struggle in vain to chase a glimmer of the vast wealth that celebrities, investors, bankers, hedge fund managers, and C-suite dwellers—the conspicuously consuming leisure class of today—openly flaunt. As such, &lt;i&gt;The Theory of the Leisure Class&lt;/i&gt; might be one of the most prescient and influential books of economic and social science of the 20th century.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/833</dc:source>
 		<dc:source>https://archive.org/details/theoryofleisurec01vebl</dc:source>
