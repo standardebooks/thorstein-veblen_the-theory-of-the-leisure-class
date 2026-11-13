@@ -71,7 +71,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Eleanor Fortescue-Brickdale</dc:contributor>
 		<meta property="file-as" refines="#artist">Fortescue-Brickdale, Eleanor</meta>
-		<link href="https://en.wikipedia.org/wiki/en:Eleanor_Fortescue-Brickdale" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Eleanor_Fortescue-Brickdale" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50058994.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Reed</dc:contributor>
